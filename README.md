@@ -102,3 +102,6 @@
 </p>
 
 ---
+<p align='center'>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ5MXVxOHdjeGwxMGlteGw3azlncDc2aTdhZnkzMG9lbzJ3dTNrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WrUNCC7hKDSrMGqfwg/giphy.gif" width="700">
+</p>
