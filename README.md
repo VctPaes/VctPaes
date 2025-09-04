@@ -4,7 +4,7 @@
 
 <p align='center'>
 🎓 Estudante de <b>Ciência da Computação</b> na UTFPR (Medianeira-PR) <br>
-💻 Apaixonado por <b>desenvolvimento de software</b> e sempre aprendendo novas tecnologias <br>
+💻 Na jornada para me tornar um <b>Full Stack Dev</b>, sempre aprendendo novas tecnologias <br>
 🌎 Aberto a oportunidades <b>remotas, híbridas ou presenciais</b> (Brasil e exterior) <br>
 </p>
 
@@ -13,7 +13,7 @@
 </p>
 
 <h3 align='center'>
-  🌐 Vamos nos conectar!
+  🌐 Meus contatos
 </h3>
 
 <p align='center'>
@@ -46,6 +46,7 @@
 
 ## Tecnologias & Ferramentas
 
+<!--
 <p align='center'>
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -59,6 +60,32 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
+-->
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img width="12" />
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+</div>
+
 
 </details>
 
