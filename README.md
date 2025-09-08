@@ -38,15 +38,17 @@
 📆 Março 2024 - Dezembro 2027\
 📍 **Universidade Federal do Paraná** - Medianeira, Brasil
 
-## Projetos Relevantes  
+## Projetos Relevantes
+<!--  
 - 📇 **Agenda de Contatos** – CRUD em **C# e SQL Server**, interface em Windows Forms  
 - ☁️ **Aplicativo de Clima** – Consumo de API externa (OpenWeatherMap) com **JavaScript**  
-- 📚 **Sistema de Biblioteca** – Aplicação desktop em **C#** para gerenciamento de empréstimos  
+- 📚 **Sistema de Biblioteca** – Aplicação desktop em **C#** para gerenciamento de empréstimos 
+--> 
 - 🐲 **Jogo de Captura de Monstros** – Aplicação de terminal em **C#** com captura de monstros, treinadores e usuários
 
 ## Tecnologias & Ferramentas
 
-<!--
+
 <p align='center'>
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -60,8 +62,8 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
--->
 
+<!--
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
@@ -85,6 +87,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="12" />
 </div>
+-->
 
 
 </details>
