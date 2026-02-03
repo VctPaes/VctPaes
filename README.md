@@ -39,12 +39,9 @@
 📍 **Universidade Federal do Paraná** - Medianeira, Brasil
 
 ## Projetos Relevantes
-<!--  
-- 📇 **Agenda de Contatos** – CRUD em **C# e SQL Server**, interface em Windows Forms  
-- ☁️ **Aplicativo de Clima** – Consumo de API externa (OpenWeatherMap) com **JavaScript**  
-- 📚 **Sistema de Biblioteca** – Aplicação desktop em **C#** para gerenciamento de empréstimos 
---> 
-- 🐲 **Jogo de Captura de Monstros** – Aplicação de terminal em **C#** com captura de monstros, treinadores e usuários
+
+- 🐲 **NetMon** – Uma aplicação console em **C#** que simula um jogo com captura de monstros, treinadores e usuários
+- 💰 **FitWallet** – Uma aplicação móvel em **Flutter** para controle fincanceiro, com registro e acompanhamento de despesas, com armazenamento em nuvem via **Supabase**
 
 ## Tecnologias & Ferramentas
 
