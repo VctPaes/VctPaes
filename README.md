@@ -20,7 +20,7 @@
   <a href="https://linkedin.com/in/victorpaesdev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:victor.luiz.paes@gmail.com">
+  <a href="mailto:victor.paes.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/VctPaes">
@@ -87,13 +87,10 @@
 </div>
 -->
 
-
 </details>
 
-##
-<h3 align='center'>
-  💻 Meu workspace
-</h3>
+<details>
+  <summary>💻 Workspace</summary>
 
 <p align='center'>
   <img src="https://img.shields.io/badge/%20Ryzen_7_5700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white&labelColor=000000" />
@@ -101,6 +98,8 @@
   <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white&labelColor=000000" />
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
 </p>
+
+</details>
 
 ---
 <p align='center'>
