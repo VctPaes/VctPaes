@@ -9,7 +9,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=VctPaes&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <img height="190em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=VctPaes&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=161a1d&layout=compact" class="center" />
 </p>
 
 <h3 align='center'>
